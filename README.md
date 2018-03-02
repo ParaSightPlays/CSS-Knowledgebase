@@ -1,4 +1,8 @@
 # CSS-Knowledgebase
+
+![CSS-Knowledgebase](https://i.imgur.com/Q3cUg29.gif)
+
+
 A library of CSS properties, values and techniques - with a personal touch.
 
 I am creating this knowledgebase as a personal reminder but please feel free to use it. The purpose is to assist me as I am learning the wonderful world of CSS - however it is vast and there are multiple ways to achieve styling of elements, layouts and webpages.
